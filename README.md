@@ -49,5 +49,5 @@ Transformer-based sentiment classifier trained on the IMDB movie review dataset 
 text_example = "The movie was absolutely fantastic! I loved every part of it."
 ```
 
-**Predicted label**: pos
-**Confidence**: 0.9967
+- **Predicted label**: pos
+- **Confidence**: 0.9967
